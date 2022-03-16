@@ -1,6 +1,6 @@
 ﻿//********************************************************************************************************************************************************************
 #region VARIABLES
-string profileDirectory = @"C:\Users\Efe Göçmen\Desktop\mathGame\";
+string profileDirectory = @"D:\projects\MathPracticeApp\MathPracticeConsoleApp\savegames\"; //please enter your desired save directory ex "D:\projects\MathPracticeApp\MathPracticeConsoleApp\savegames\"
 string profileFileExtension = ".dat";
 double firstOperand = 0;
 double secondOperand = 0;

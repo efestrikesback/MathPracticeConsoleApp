@@ -1,0 +1,15 @@
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\bin\Debug\net6.0\MathPracticeApp.exe
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\bin\Debug\net6.0\MathPracticeApp.deps.json
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\bin\Debug\net6.0\MathPracticeApp.runtimeconfig.json
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\bin\Debug\net6.0\MathPracticeApp.dll
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\bin\Debug\net6.0\ref\MathPracticeApp.dll
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\bin\Debug\net6.0\MathPracticeApp.pdb
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.csproj.AssemblyReference.cache
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.AssemblyInfoInputs.cache
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.AssemblyInfo.cs
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.csproj.CoreCompileInputs.cache
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.dll
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\ref\MathPracticeApp.dll
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.pdb
+D:\projects\MathPracticeApp\MathPracticeConsoleApp\obj\Debug\net6.0\MathPracticeApp.genruntimeconfig.cache
